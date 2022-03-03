@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.523,=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.03.03 09:54:38.580,=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.03.03 09:54:38.658,=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.03.03 10:38:22.631,\\server\UserData$\1205650\Desktop\proga\Unit1.h=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022.03.03 10:38:22.631,\\server\UserData$\1205650\Desktop\proga\Unit1.cpp=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.03.03 10:38:22.631,\\server\UserData$\1205650\Desktop\proga\Unit1.dfm=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.03.03 10:38:28.901,\\server\UserData$\1205650\Desktop\proga\Project1PCH1.h=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.03.03 10:38:30.717,\\server\UserData$\1205650\Desktop\proga\Project1.cbproj=\\server\UserData$\1205650\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
